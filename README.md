@@ -76,19 +76,19 @@ sise-300-715-prep/
 
 ## Status
 
-| Topic | Status |
-|---|---|
-| 01-architecture | ⏳ scaffolded |
-| **02-policy-sets** | ✅ **complete (template for the rest)** |
-| 03-webauth-guest | ⏳ scaffolded |
-| 04-profiler | ⏳ scaffolded |
-| 05-byod | ⏳ scaffolded |
-| 06-posture | ⏳ scaffolded |
-| 07-tacacs-device-admin | ⏳ scaffolded |
-| 08-trustsec | ⏳ scaffolded |
-| 09-integrations | ⏳ scaffolded |
+| Topic | README | Self-test | Lab procedure |
+|---|---|---|---|
+| 01-architecture | ✅ done | ✅ done | ⏳ user fills in |
+| **02-policy-sets** | ✅ done | ✅ done | ✅ done (canonical template) |
+| 03-webauth-guest | ✅ done | ✅ done | ⏳ user fills in |
+| 04-profiler | ✅ done | ✅ done | ⏳ user fills in |
+| 05-byod | ✅ done | ✅ done | ⏳ user fills in |
+| 06-posture | ✅ done | ✅ done | ⏳ user fills in |
+| 07-tacacs-device-admin | ✅ done | ✅ done | ⏳ user fills in |
+| 08-trustsec | ✅ done | ✅ done | ⏳ user fills in |
+| 09-integrations | ✅ done | ✅ done | ⏳ user fills in |
 
-Section 02 is the canonical example — every other section follows that shape. Update this table as you fill in each topic.
+All READMEs and self-tests are populated as a study reference. Section 02 also has the fully-built lab procedure as a canonical example — fill in the other lab procedures yourself as you sit down to work each topic in your real ISE.
 
 ## License
 
