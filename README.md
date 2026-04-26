@@ -74,6 +74,10 @@ sise-300-715-prep/
     └── screenshots/
 ```
 
+## Retake plan
+
+This repo includes a [`RETAKE-PLAN.md`](RETAKE-PLAN.md) — the structured 5-month comeback plan after the first attempt. If you're using this repo to prepare from scratch, you can ignore that file. If you're using it to come back from a failed attempt, that's where to start.
+
 ## Status
 
 | Topic | README | Self-test | Lab procedure |
